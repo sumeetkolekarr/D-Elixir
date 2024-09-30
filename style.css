@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    height: max-content;
+    width: 100vw;
+    background-color: gray;
+}
+
+.header{
+    width: 100vw;
+    height: 2.5vh;
+    background-color: blue;
+}
+
+.bgvid{
+    width: 100vw;
+    height: 80vh;
+    background-color: tan;
+}
